@@ -53,7 +53,9 @@ h2 {
 }
 footer {
     display: flex;
-    background-color: black;
+    background-color: blanchedalmond;
+    border: solid;
+    border-color: bisque;
     color: aliceblue;
     height: 80px;
     justify-content: center;
