@@ -53,7 +53,8 @@ h2 {
     height: 200px;
 }
 h3 {
-    padding-top: 120px;
+    padding-top: 100px;
+    padding-bottom: 40px;
     font-weight: bold;
     font-size: 40px;
     color: tomato;
@@ -63,7 +64,17 @@ h3 {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 50px;
-    margin: 110px;
+    margin: 40px;
     gap: 20px;
 }
+.foto {
+    width: 260px;
+    height: 240px;
+}
+.card {
+    background-color: goldenrod;
+}
+.card-text {
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
