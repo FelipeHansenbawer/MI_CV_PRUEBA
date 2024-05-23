@@ -52,3 +52,18 @@ h2 {
     max-height: 500px;
     height: 200px;
 }
+h3 {
+    padding-top: 120px;
+    font-weight: bold;
+    font-size: 40px;
+    color: tomato;
+}
+.porta {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin: 110px;
+    gap: 20px;
+}
